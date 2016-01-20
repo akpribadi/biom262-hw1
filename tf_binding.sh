@@ -1,5 +1,3 @@
-cd ~/code/biom262-2016/weeks/week01/data
-
 #excercise 1, find NFKB binding sites only
 grep 'NFKB' tf2.bed > tf.nfkb.bed
 
